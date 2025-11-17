@@ -1,4 +1,4 @@
-# Decentralized Web Browser
+# Chains (Decentralized Web Browser)
 
 Back to “AS400”/Green Screen (?)
 
